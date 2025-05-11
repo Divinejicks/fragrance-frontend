@@ -190,7 +190,7 @@ export const HomePage = () => {
 
     const handleSubmit = () => {
         // Prepare the order details message
-        let orderMessage = "Hello Fragrance, I would like to place an order:\n\n";
+        let orderMessage = "Hello The Fragrance, I would like to place an order:\n\n";
 
         orders.forEach((order) => {
             orderMessage += `Product: ${order.name}\nQuantity: ${order.quantity}\nTotal: FCFA ${order.total.toLocaleString()}\n\n`;
