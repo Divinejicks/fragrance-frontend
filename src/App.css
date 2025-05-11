@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-rd-black: #000000;              /* Black */
+  --color-rd-gold: #D4AF37;               /* Gold */
+  --color-rd-deepNavy: #0B1D51;           /* Deep Navy */
+  --color-rd-champagne: #F7E7CE;          /* Champagne */
+  --color-rd-white: #FFFFFF;              /* White (kept for contrast) */
+  --color-rd-lightGray: #BEBEBF;          /* Optional neutral */
+  --color-rd-simpleGray: #E0E0E0;         /* Optional neutral */
+  --color-rd-backgroundColor: #F7E7CE80;  /* Champagne with transparency */
+}
