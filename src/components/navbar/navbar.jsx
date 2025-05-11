@@ -56,7 +56,7 @@ export const NavBar = ({ path }) => {
                         />
                         <div className="h-8 border-l border-rd-gold"></div>
                         <span className="text-xl md:text-2xl font-serif font-bold text-rd-champagne tracking-wide">
-                            FRAGRANCE
+                            THE FRAGRANCE
                         </span>
                     </div>
 

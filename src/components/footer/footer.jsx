@@ -13,7 +13,7 @@ const Footer = () => {
         <div className="md:w-1/3">
           <div className="flex items-center gap-3 mb-3">
             <img src={logo} onClick={() => navigate(AppRoutesPaths.home)} alt="Fragrance Logo" className="h-10 w-auto cursor-pointer" />
-            <h2 className="text-2xl font-bold">FRAGRANCE</h2>
+            <h2 className="text-2xl font-bold">THE FRAGRANCE</h2>
           </div>
           <p className="text-sm text-gray-300">
             Premium perfumes at unbeatable prices. Shop online and get them delivered to you.
